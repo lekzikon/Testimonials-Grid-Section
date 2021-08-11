@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/lekzikon/Testimonials-Grid-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://testimonials-grid-task.netlify.app/)
 
 ## My process
 
@@ -60,5 +60,3 @@ I hope to learn more about the z-index.
 - Website - [Lekzikon](https://github.com/lekzikon) - 
 - Frontend Mentor - [@lekzikon](https://www.frontendmentor.io/profile/lekzikon)
 - Twitter - [@lekzikon](https://www.twitter.com/lekzikon)
-
-
